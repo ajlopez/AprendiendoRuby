@@ -49,6 +49,12 @@ Por supuesto, hay mucha información en inglés
 Tengo un sitio de contenidos por temas, y otro que contiene exámenes tipo elección múltiple. Tengo que actualizarlos
 para que tengan una sección Ruby.
 
+## Orígenes
+
+Hace ya tiempo que quería iniciar este proyecto. El dar una charla de [introducción a Ruby
+en Buenos Aires](http://msmvps.com/blogs/lopez/archive/2013/05/07/introducci-243-n-a-ruby-en-buenos-aires.aspx) me ha dado la excusa para comenzar a pasar por escrito lo que quiero mostrar del lenguaje y
+su forma de programación.
+
 ## Colaborar
 
 Pueden colaborar de muchas maneras:
