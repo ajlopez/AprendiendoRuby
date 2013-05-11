@@ -37,6 +37,53 @@ de este repo.
 
 ## Ruby Interactivo
 
+Con la instalación de Ruby viene un programa `irb` (de Interactive Ruby) que se puede invocar
+desde la línea de comando. Por ejemplo
+
+- Si estamos en **Mac OS X** abrimos `Terminal` e ingresamos `irb` y enter
+- Si estamos en **Linux** abrimos un shell e ingresamos `irb` y enter
+- Si estamos en **Windows** abrimos una caja de DOS e ingresamos `irb` y enter
+
+Entonces aparece algo cmo
+
+```
+irb(main):001:0>
+```
+
+Y ahora ¿qué hacemos? Seamos educados, y saludemos al programa. Simplemente ingresamos `"Hola IRB"` y obtenemos
+
+```
+irb(main):001:0> "Hola IRB"
+=> "Hola IRB"
+```
+
+Hasta podemos usarlo como una calculadora con esteroides :-)
+```
+irb(main):001:0> 1+2
+=> 3
+irb(main):002:0> 3/4
+=> 0
+```
+Vean que en el último caso la división es entera.
+
+Y tenemos funciones predefinidas
+```
+irb(main):001:0> puts "Hola IRB"
+Hola IRB
+=> nil
+```
+Noten que una cosa es el resultado de invocar a la función predefinida `puts`, que termina
+imprimiendo en la consula el mensaje que le pasamos como parámetro, y otra cosa es lo que
+esa función devuelve, el valor `nil`, que podemos por ahora asimilar al `null` de otros lenguajes
+como C#, Java o JavaScript
+
+> Nota: no hace falta verlo ahora, pero les adelanto que `nil` es (o por lo menos se comporta)
+como un objeto, tiene métodos asociados y hasta una clase, la clase `NilClass`, cosa que no
+asombrará a los programadores Smalltalk
+
+Podríamos ingresar varias líneas, y definir funciones, e invocarlas. Vamos a ir viendo estos temas
+pero si quieren, pueden probar cosas como:
+
 ```ruby
 irb(main):001:0> n = 1
 => 1
@@ -50,3 +97,7 @@ irb(main):006:0> twice(2)
 => 4
 irb(main):007:0>
 ```
+
+## Fuente consultadas:
+
+- [Ruby in Twenty Minutes](http://www.ruby-lang.org/en/documentation/quickstart/)
