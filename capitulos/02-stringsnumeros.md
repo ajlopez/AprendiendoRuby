@@ -1,4 +1,4 @@
-# Strings y números
+# Strings y Números
 
 El siempre presente Hola mundo se puede escribir en Ruby como
 
@@ -145,6 +145,12 @@ métodos de los números. Podemos escribir en Ruby:
 2.+(2) # => 4, usando paréntesis
 3.*3   # => 9
 ```
+
+(A completar)
+
+## Primeros Métodos de String
+
+(A completar)
 
 ## Fuentes consultadas
 

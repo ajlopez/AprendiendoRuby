@@ -1,11 +1,10 @@
-# Control de Flujo
+# Condiciones
 
-Como otros lenguajes, Ruby tiene comandos de control de flujo, como tomar
-decisiones con `if` (y otros), ciclos con `for` (y otros), llamar a métodos,
-retornar de métodos, etc. Veamos primero cómo son las condiciones, y luego,
-algunos primeros ejemplos de comandos de control de flujo.
+Como otros lenguajes, Ruby tiene comandos para tomar decisiones como
+el `if` y otros. Estudiemos primero los valores de verdad y falsedad en Ruby,
+y luego visitaremos el comando `if` y sus variantes.
 
-## Condiciones
+## Falso y Verdadero
 
 Si evaluamos en `irb`:
 
