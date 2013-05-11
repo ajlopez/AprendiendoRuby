@@ -44,7 +44,7 @@ desde la línea de comando. Por ejemplo
 - Si estamos en **Linux** abrimos un shell e ingresamos `irb` y enter
 - Si estamos en **Windows** abrimos una caja de DOS e ingresamos `irb` y enter
 
-Entonces aparece algo cmo
+Entonces aparece algo como
 
 ```
 irb(main):001:0>
@@ -77,8 +77,7 @@ imprimiendo en la consula el mensaje que le pasamos como parámetro, y otra cosa 
 esa función devuelve, el valor `nil`, que podemos por ahora asimilar al `null` de otros lenguajes
 como C#, Java o JavaScript
 
-> Nota: no hace falta verlo ahora, pero les adelanto que `nil` es (o por lo menos se comporta)
-como un objeto, tiene métodos asociados y hasta una clase, la clase `NilClass`, cosa que no
+> Nota: no hace falta verlo ahora, pero les adelanto que `nil` es un objeto, tiene métodos asociados y hasta una clase, la clase `NilClass`, cosa que no
 asombrará a los programadores Smalltalk
 
 Podríamos ingresar varias líneas, y definir funciones, e invocarlas. Vamos a ir viendo estos temas
