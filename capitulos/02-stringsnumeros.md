@@ -69,3 +69,11 @@ en otros lenguajes. Tampoco tienen tipo: el tipo string corresponde al valor `"H
 la variable `saludo` puede ahora tener un string como mañana tener un número. Y como otros
 lenguajes, Ruby distingue entre mayúsculas y minúsculas. Es decir, `saludo` y `Saludo` son nombres
 distintos
+
+## Números
+
+```ruby
+subtotal = 100.00
+tasaimpuesto = 0.21
+impuesto = subtotal * tasaimpuesto
+```
