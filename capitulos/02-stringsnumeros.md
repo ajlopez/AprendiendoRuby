@@ -92,21 +92,13 @@ irb(main):001:0> 123.to_s
 irb(main):002:0> 123.class
 => Fixnum
 irb(main):003:0> 123.methods
-=> [:to_s, :inspect, :-@, :+, :-, :*, :/, :div, :%, :modulo, :divmod, :fdiv, :**
-, :abs, :magnitude, :==, :===, :<=>, :>, :>=, :<, :<=, :~, :&, :|, :^, :[], :<<,
- :>>, :to_f, :size, :zero?, :odd?, :even?, :succ, :ord, :integer?, :upto, :downt
-o, :times, :next, :pred, :chr, :to_i, :to_int, :floor, :ceil, :truncate, :round,
- :gcd, :lcm, :gcdlcm, :numerator, :denominator, :to_r, :rationalize, :singleton_
-method_added, :coerce, :i, :+@, :eql?, :quo, :remainder, :real?, :nonzero?, :ste
-p, :to_c, :real, :imaginary, :imag, :abs2, :arg, :angle, :phase, :rectangular, :
-rect, :polar, :conjugate, :conj, :between?, :nil?, :=~, :!~, :hash, :class, :sin
-gleton_class, :clone, :dup, :taint, :tainted?, :untaint, :untrust, :untrusted?,
-:trust, :freeze, :frozen?, :methods, :singleton_methods, :protected_methods, :pr
-ivate_methods, :public_methods, :instance_variables, :instance_variable_get, :in
-stance_variable_set, :instance_variable_defined?, :remove_instance_variable, :in
-stance_of?, :kind_of?, :is_a?, :tap, :send, :public_send, :respond_to?, :extend,
- :display, :method, :public_method, :define_singleton_method, :object_id, :to_en
-um, :enum_for, :equal?, :!, :!=, :instance_eval, :instance_exec, :__send__, :__i
-d__]
+=> [:to_s, :inspect, :-@, :+, :-, :*, :/, :div, :%, :modulo, :divmod, :fdiv, :**, abs, :magnitude, :==, :===, :<=>, :>, :>=, :<, :<=, :~, :&, :|, :^, :[], :<<,
+ :>>, :to_f, :size, :zero?, :odd?, :even?, :succ, :ord, :integer?, :upto, :downto, :times, :next, :pred, :chr, :to_i, :to_int, :floor, :ceil, :truncate, :round,
+ :gcd, :lcm, :gcdlcm, :numerator, :denominator, :to_r, :rationalize, :singleton_method_added, :coerce, :i, :+@, :eql?, :quo, :remainder, :real?, :nonzero?, 
+ :step, :to_c, :real, :imaginary, :imag, :abs2, :arg, :angle, :phase, :rectangular, :rect, :polar, :conjugate, :conj, :between?, :nil?, :=~, :!~, :hash, :class, 
+ :singleton_class, :clone, :dup, :taint, :tainted?, :untaint, :untrust, :untrusted?,:trust, :freeze, :frozen?, :methods, :singleton_methods, :protected_methods, 
+:private_methods, :public_methods, :instance_variables, :instance_variable_get, :instance_variable_set, :instance_variable_defined?, :remove_instance_variable, 
+:instance_of?, :kind_of?, :is_a?, :tap, :send, :public_send, :respond_to?, :extend, :display, :method, :public_method, :define_singleton_method, :object_id, 
+:to_enum, :enum_for, :equal?, :!, :!=, :instance_eval, :instance_exec, :__send__, :__id__]
 irb(main):004:0>
 ```
