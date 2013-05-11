@@ -45,6 +45,18 @@ obtenemos
 TrueClass
 ```
 
+## Operadores
+
+(A completar)
+
+### El Método `===`
+
+(A completar)
+
+### And, Or y Not
+
+(A completar)
+
 ## El Comando `if`
 
 Nuestro primer ejemplo de `if`:
@@ -89,6 +101,30 @@ else
     puts 'El valor NO es ni diez ni veinte'
 end
 ```
+
+## Listas de Comandos
+
+(A completar)
+
+## El comando `unless`
+
+(A completar)
+
+## El Comando `case`
+
+(A completar)
+
+### Sintaxis Alternativa de `case`
+
+(A completar)
+
+## Comandos y Expresiones
+
+(A completar)
+
+## Modificadores `if` y `unless`
+
+(A completar)
 
 ## Fuentes consultadas
 

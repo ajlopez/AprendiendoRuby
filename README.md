@@ -32,18 +32,22 @@ que no sea el estilo usado en países de habla hispana, pero es lo que se acostum
 Una lista de recursos adicionales a visitar, en español
 
 - [Aprende a Programar](https://github.com/rubyperu/aprende.a.programar/blob/master/README.md#aprende-a-programar)
+- [Ruby desde otros lenguajes](http://www.ruby-lang.org/es/documentation/ruby-from-other-languages/) Interesante
+comparación con otros lenguajes
+- [Ruby en 20 minutos](http://www.ruby-lang.org/es/documentation/quickstart/)
 
 ## Recursos en Inglés
 
 Por supuesto, hay mucha información en inglés
 
 - [Ruby in Twenty Minutes](http://www.ruby-lang.org/en/documentation/quickstart/)
-- [Ruby From Other Languages](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/) Interesante
-comparación con otros lenguajes
+- [Ruby From Other Languages](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
 - [Interactive Ruby](http://en.wikipedia.org/wiki/Interactive_Ruby_Shell)
 - [10 Minutes to Your First Ruby Application](http://neurogami.com/content/10_minutes_to_your_first_Ruby_app/)
 - [Programming Ruby, The Pragmatic Programmer's Guide, 1st ed](http://www.rubycentral.org/pickaxe)
 - [Ruby Tutorial](http://www.tutorialspoint.com/ruby/index.htm)
+- [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
+- [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 - (En construcción)
 
 ## Fuentes consultadas
