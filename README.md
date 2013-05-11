@@ -18,6 +18,8 @@ otro lenguaje.
 1. [Introducción](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/01-intro.md#introduccin)
 1. [Strings y Números](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/02-stringsnumeros.md#strings-y-nmeros)
 1. [Variables](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/03-variables.md#variables)
+1. Control de Flujo
+1. Clases y Objetos
 1. (En construcción)
 
 ## Notas
