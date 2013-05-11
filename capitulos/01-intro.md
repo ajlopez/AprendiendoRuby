@@ -35,3 +35,18 @@ de este repo.
 
 (A completar)
 
+## Ruby Interactivo
+
+```ruby
+irb(main):001:0> n = 1
+=> 1
+irb(main):002:0> m = 2
+=> 2
+irb(main):003:0> def twice(a)
+irb(main):004:1>    a*2
+irb(main):005:1> end
+=> nil
+irb(main):006:0> twice(2)
+=> 4
+irb(main):007:0>
+```
