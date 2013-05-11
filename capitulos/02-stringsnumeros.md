@@ -62,6 +62,7 @@ Es lo que se llama en otros lenguajes [String Interpolation](http://en.wikipedia
 > Vean que este tema de tener expresiones en los strings es un `viejo truco` presente en otros lenguajes.
 Ahora pueden ir a cualquier fiesta de cumpleaños y decir muy orondamente: "Ya sé string interpolation
 en Ruby" :-)
+
 > Es nuestro primer encuentro con variables, como `nombre` y `saludo`. Vean que cuando
 necesitamos una variable simplemente le asignamos un valor. No hace falta declararla como
 en otros lenguajes. Tampoco tienen tipo: el tipo string corresponde al valor `"Hola"`, pero
