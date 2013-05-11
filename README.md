@@ -37,6 +37,7 @@ Por supuesto, hay mucha información en inglés
 
 - [Ruby in Twenty Minutes](http://www.ruby-lang.org/en/documentation/quickstart/)
 - [Interactive Ruby](http://en.wikipedia.org/wiki/Interactive_Ruby_Shell)
+- [10 Minutes to Your First Ruby Application](http://neurogami.com/content/10_minutes_to_your_first_Ruby_app/)
 - (En construcción)
 
 ## Fuentes consultadas
