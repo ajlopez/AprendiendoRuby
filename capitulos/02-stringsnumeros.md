@@ -82,6 +82,8 @@ tasaimpuesto = 0.21
 impuesto = subtotal * tasaimpuesto
 ```
 
+(A completar)
+
 ## Son Objetos
 
 Tanto los strings como los números son objetos en Ruby. Veamos de ejecutar en `irb`:
@@ -102,3 +104,52 @@ irb(main):003:0> 123.methods
 :to_enum, :enum_for, :equal?, :!, :!=, :instance_eval, :instance_exec, :__send__, :__id__]
 irb(main):004:0>
 ```
+
+Lo que era hasta ahora un simple entero `123` es en realidad un objeto. Podemos
+invocar a un método colocando el punto y nombre del método luego del valor. 
+Vemos que `to_s` es un método que convierte el objeto a una representación a string.
+Es similar al `toString` de Java o al `ToString` de .NET. No lleva parámetros, por
+eso lo invocamos sin paréntesis, pero al igual que los otros, podríamos haber
+escrito
+```ruby
+123.to_s()
+```
+
+El método `class` nos revela que un entero es un objeto de la clase `Fixnum`. Y
+notablemente, el método `methods` nos da una lista de nombres de métodos
+disponibles para el objeto al que estamos examinando. Esto nos muestra una
+de las características de Ruby: es un lenguaje que nos permite averiguar en ejecución los métodos y otras
+propiedades de los objetos y clases que estamos manejando. Se dice entonces
+que Ruby soporta `reflection`.
+
+> Nota: recuerdo los tiempos cuando esto de `reflection` no era tan común. Por
+ejemplo, en el C++ inicial de los ochenta del siglo pasado, no había nada
+implementado para conseguir dinámicamente los métodos disponibles en una clase
+o instancia
+
+Si revisamos la lista de métodos disponibles para los enteros, vemos que no nos
+da una lista de nombres simples, sino de algo nuevo: son nombres precedidos por
+`:`. En Ruby, se llaman símbolos, y su uso es muy común. Aprederemos sobre ellos
+más adelante en este curso, pero por ahora podemos considerarlos como simples nombres
+distinguidos
+
+> El tener símbolos en Ruby es una de las influencias de Smalltalk en el diseño
+de Matz
+
+Y si revisamos de nuevo la lista de métodos, notablemente encontramos algunos
+como `:+`. Y sí, los operadores aritméticos, en el fondo de su alma, son
+métodos de los números. Podemos escribir en Ruby:
+
+```ruby
+1.+1   # => 2
+2.+(2) # => 4, usando paréntesis
+3.*3   # => 9
+```
+
+## Fuentes consultadas
+
+- [Ruby Reflection](http://khelll.com/blog/ruby/ruby-reflection/)
+
+
+
+
