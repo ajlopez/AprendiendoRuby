@@ -15,12 +15,10 @@ otro lenguaje.
 
 ## Índice
 
-(En construcción)
-
 1. [Introducción](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/01-intro.md#introduccin)
-2. Strings y Números
-3. Variables
-4. (En construcción)
+1. [Strings y Números](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/02-stringsnumeros.md#strings-y-nmeros)
+1. Variables
+1. (En construcción)
 
 ## Notas
 
@@ -37,6 +35,8 @@ Una lista de recursos adicionales a visitar, en español
 
 Por supuesto, hay mucha información en inglés
 
+- [Ruby in Twenty Minutes](http://www.ruby-lang.org/en/documentation/quickstart/)
+- [Interactive Ruby](http://en.wikipedia.org/wiki/Interactive_Ruby_Shell)
 - (En construcción)
 
 ## Fuentes consultadas
