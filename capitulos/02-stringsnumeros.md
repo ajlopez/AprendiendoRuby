@@ -70,6 +70,10 @@ la variable `saludo` puede ahora tener un string como mañana tener un número. 
 lenguajes, Ruby distingue entre mayúsculas y minúsculas. Es decir, `saludo` y `Saludo` son nombres
 distintos
 
+> En el ejemplo de arriba, apareció nuestro primer comentario: todo lo que está
+desde un `#` hasta el fin de la línea se considera un comentario, ignorado por el
+intérprete Ruby
+
 ## Números
 
 ```ruby

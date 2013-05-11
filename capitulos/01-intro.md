@@ -97,6 +97,9 @@ irb(main):006:0> twice(2)
 irb(main):007:0>
 ```
 
+El `def twice(a)` hasta el `end` es la forma que tenemos en Ruby para definir
+una función. En la línea 6 la invocamos, pasándole como único parámetro a `2`.
+
 ## Fuente consultadas:
 
 - [Ruby in Twenty Minutes](http://www.ruby-lang.org/en/documentation/quickstart/)
