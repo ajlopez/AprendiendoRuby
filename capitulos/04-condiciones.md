@@ -45,7 +45,10 @@ obtenemos
 TrueClass
 ```
 
-## Operadores
+## Primeros Operadores
+
+Tenemos que recordar siempre algo: lo que vimos como operadores de comparación
+o aritméticos son en realidad métodos.
 
 (A completar)
 
@@ -108,9 +111,57 @@ end
 
 ## El comando `unless`
 
+```ruby
+unless temperatura < 37
+	puts 'Tiene fiebre'
+else
+	puts 'Todo está bien'
+end
+```
+
 (A completar)
 
 ## El Comando `case`
+
+```ruby
+case i
+    when 1 then puts('Es lunes')
+    when 2 then puts('Es martes s')
+    when 3 then puts('Es miércoles')
+    when 4 then puts('Es jueves')
+    when 5 then puts('Es viernes')
+	else puts('Es fin de semana')
+end
+```
+
+```ruby
+put case i
+    when 1 then 'Es lunes'
+    when 2 then 'Es martes'
+    when 3 then 'Es miércoles'
+    when 4 then 'Es jueves'
+    when 5 then 'Es viernes'
+	else 'Es fin de semana'
+end
+```
+
+```ruby
+case i
+    when 1 
+	    puts('Es lunes')
+    when 2
+	    puts('Es martes')
+    when 3
+	    puts('Es miércoles')
+    when 4
+	    puts('Es jueves')
+    when 5
+	    puts('Es viernes')
+	else
+	    puts('¡Bravo!')
+	    puts('Es fin de semana')
+end
+```
 
 (A completar)
 
@@ -131,3 +182,4 @@ end
 - [True, False And Nil Objects In Ruby](http://www.skorks.com/2009/09/true-false-and-nil-objects-in-ruby/)
 - [Ruby If, Else If Command Syntax](http://www.howtogeek.com/howto/programming/ruby/ruby-if-else-if-command-syntax/)
 - [Ruby if...else, case, unless](http://www.tutorialspoint.com/ruby/ruby_if_else.htm)
+- [How A Ruby Case Statement Works And What You Can Do With It](http://www.skorks.com/2009/08/how-a-ruby-case-statement-works-and-what-you-can-do-with-it/)
