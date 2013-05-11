@@ -70,6 +70,28 @@ if valor > 1 then
 end
 ```
 
+Tenemos la rama `else`:
+```ruby
+if valor > 1 then
+    puts 'El valor es mayor que 1'
+else
+    puts 'El valor NO es mayor que 1'
+end
+```
+
+Y podemos usar `elsif`:
+```ruby
+if valor == 10
+    puts 'El valor es diez'
+elsif valor == 20
+    puts 'El valor es veinte'
+else
+    puts 'El valor NO es ni diez ni veinte'
+end
+```
+
 ## Fuentes consultadas
 
 - [True, False And Nil Objects In Ruby](http://www.skorks.com/2009/09/true-false-and-nil-objects-in-ruby/)
+- [Ruby If, Else If Command Syntax](http://www.howtogeek.com/howto/programming/ruby/ruby-if-else-if-command-syntax/)
+- [Ruby if...else, case, unless](http://www.tutorialspoint.com/ruby/ruby_if_else.htm)
