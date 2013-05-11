@@ -126,7 +126,7 @@ end
 ```ruby
 case i
     when 1 then puts('Es lunes')
-    when 2 then puts('Es martes s')
+    when 2 then puts('Es martes')
     when 3 then puts('Es miércoles')
     when 4 then puts('Es jueves')
     when 5 then puts('Es viernes')
