@@ -17,7 +17,7 @@ otro lenguaje.
 
 (En construcción)
 
-1. Introducción
+1. [Introducción](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/01-intro.md#introduccin)
 2. Strings y Números
 3. Variables
 4. (En construcción)
