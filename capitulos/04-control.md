@@ -27,6 +27,25 @@ se decantaron por tener `=` para la comparación por igual, y otra serie de cara
 para la asignación. Notablemente, la mayor parte de variantes de Basic han usado `=` para ambas
 funciones
 
+Como ya vimos con strings y números, tanto `false` como `true` son objetos, ya predefinidos.
+Y como objetos tienen clase asociada y métodos. Cuando evaluamos:
+```ruby
+false.class
+```
+obtenemos
+```ruby
+FalseClass
+```
+
+Y cuando evaluamos
+```ruby
+true.class
+```
+obtenemos
+```ruby
+TrueClass
+```
+
 ## El Comando `if`
 
 Nuestro primer ejemplo de `if`:
@@ -51,3 +70,7 @@ if valor > 1 then
     puts 'que el valor es mayor que 1'
 end
 ```
+
+## Fuentes consultadas
+
+- [True, False And Nil Objects In Ruby](http://www.skorks.com/2009/09/true-false-and-nil-objects-in-ruby/)
