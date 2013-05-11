@@ -38,15 +38,21 @@ Una lista de recursos adicionales a visitar, en español
 Por supuesto, hay mucha información en inglés
 
 - [Ruby in Twenty Minutes](http://www.ruby-lang.org/en/documentation/quickstart/)
+- [Ruby From Other Languages](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/) Interesante
+comparación con otros lenguajes
 - [Interactive Ruby](http://en.wikipedia.org/wiki/Interactive_Ruby_Shell)
 - [10 Minutes to Your First Ruby Application](http://neurogami.com/content/10_minutes_to_your_first_Ruby_app/)
 - [Programming Ruby, The Pragmatic Programmer's Guide, 1st ed](http://www.rubycentral.org/pickaxe)
+- [Ruby Tutorial](http://www.tutorialspoint.com/ruby/index.htm)
 - (En construcción)
 
 ## Fuentes consultadas
 
 - [The Book of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby), Huw Collingbourne
 - (En construcción)
+
+En un capítulo pueden aparecer más fuentes, relacionados con el tema de esa
+sección.
 
 ## Para hacer
 
