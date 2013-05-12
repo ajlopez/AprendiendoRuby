@@ -31,9 +31,8 @@ otro lenguaje.
 1. Gemas
 1. Threads
 1. Programación Dinámica
-1. Escribiendo un Domain Specific Language
+1. Escribiendo un DSL
 1. Desarrollo Web con Sinatra
-
 1. (En construcción)
 
 ## Notas
