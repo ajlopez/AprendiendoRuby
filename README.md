@@ -19,7 +19,7 @@ otro lenguaje.
 1. [Strings y Números](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/02-stringsnumeros.md#strings-y-nmeros)
 1. [Variables](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/03-variables.md#variables)
 1. [Condiciones](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/04-condiciones.md#condiciones)
-1. Clases y Objetos
+1. [Clases y Objetos](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/05-clases.md#clases-y-objetos)
 1. (En construcción)
 
 ## Notas
