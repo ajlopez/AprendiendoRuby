@@ -29,6 +29,13 @@ end
 
 Como en otras partes de Ruby, un módulo es un bloque de código que termina en `end`.
 
+Lo definido arriba, se puede acceder con:
+
+```ruby
+MiLibreria::LARESPUESTAES # => 42
+MiLibreria.salidar        # => Hola, soy método de módulo
+```
+
 ## Mixins
 
 (A Completar)

@@ -28,7 +28,7 @@ otro lenguaje.
 1. Módulos
 1. Archivos y Entrada/Salida
 1. Serialización
-1. Gemas
+1. [Gemas](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/14-gemas.md#gemas)
 1. Threads
 1. Programación Dinámica
 1. Escribiendo un DSL
