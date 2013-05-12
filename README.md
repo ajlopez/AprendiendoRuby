@@ -30,7 +30,7 @@ otro lenguaje.
 1. Serialización
 1. [Gemas](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/14-gemas.md#gemas)
 1. Threads
-1. Programación Dinámica
+1. [Programación Dinámica](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/16-programaciondinamica.md)
 1. Escribiendo un DSL
 1. Desarrollo Web con Sinatra
 1. (En construcción)
