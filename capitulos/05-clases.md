@@ -70,6 +70,8 @@ afuera del objeto.
 de instancia desde fuera del objeto. Lo veremos más adelante, cuando veamos las
 capacidades de reflection de Ruby.
 
+### Creando una Instancia
+
 Y ahora, ¿cómo creamos un objeto de la clase `Perro`? Podemos usar
 
 ```ruby
@@ -104,7 +106,16 @@ class Perro
 end
 ```
 
-Y luego de esto, todas las instancias de la clase `Perro` tienen un nuevo método `get_nombre`.
+Y luego de esto, todas las instancias de la clase `Perro` tienen un nuevo método `get_nombre`. Podemos
+ahora evaluar:
+
+```ruby
+neron.get_nombre
+```
+
+### Inicializando una Instancia
+
+
 
 (A completar: ejecución de comandos en la definición de una clase)
 
