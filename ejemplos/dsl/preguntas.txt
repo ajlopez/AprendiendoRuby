@@ -1,0 +1,6 @@
+﻿
+pregunta '¿Cual es la capital de Argentina?'
+correcta 'Buenos Aires'
+incorrecta 'Asunción'
+incorrecta 'Montevideo'
+

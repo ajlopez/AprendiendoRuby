@@ -77,7 +77,6 @@ class Semaforo
 end
 ```
 
-
 (A completar)
 
 ## Fuentes Consultadas
@@ -85,4 +84,7 @@ end
 - [Ruby: Dynamically Define Method](http://blog.jayfields.com/2008/02/ruby-dynamically-define-method.html)
 - [Ruby Metaprogramming: Declaratively Adding Methods to a Class](http://www.vitarara.org/cms/ruby_metaprogamming_declaratively_adding_methods_to_a_class)
 - [Ruby’s define_method, method_missing, and instance_eval](http://www.trottercashion.com/2011/02/08/rubys-define_method-method_missing-and-instance_eval.html)
+- [How do you pass arguments to define_method?](http://stackoverflow.com/questions/89650/how-do-you-pass-arguments-to-define-method)
+
+
 
