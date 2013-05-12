@@ -139,7 +139,7 @@ no solamente interrumpe el bloque, sino que además termina y retorna del método 
 Es muy interesante el tema de `Proc.new`, `proc`, `lambda` y sus diferencias. Para este tema he consultado:
 
 - [When to use lambda, when to use Proc.new?](http://stackoverflow.com/questions/626/when-to-use-lambda-when-to-use-proc-new)
-- [Understanding Ruby Blocks, Procs and Lambdas](http://www.robertsosinski.com/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/}
+- [Understanding Ruby Blocks, Procs and Lambdas](http://www.robertsosinski.com/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/)
 - [Ruby Procs And Lambdas (And The Difference Between Them)](http://www.skorks.com/2010/05/ruby-procs-and-lambdas-and-the-difference-between-them/)
 - [Control flow differences between Ruby Procs and Lambdas](http://www.akshay.cc/blog/2010-02-14-control-flow-differences-between-ruby-procs-and-lambdas.html)
 - [Lisp in 32 lines of Ruby](http://blog.fogus.me/2012/01/25/lisp-in-40-lines-of-ruby/)
