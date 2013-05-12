@@ -25,7 +25,7 @@ otro lenguaje.
 1. Métodos
 1. [Bloques, Procs y Lambdas](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/09-blocks.md#bloques-procs-y-lambdas)
 1. Símbolos
-1. Módulos
+1. [Módulos](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/11-modules.md#mdulos-y-mixins)
 1. Archivos y Entrada/Salida
 1. Serialización
 1. [Gemas](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/14-gemas.md#gemas)
