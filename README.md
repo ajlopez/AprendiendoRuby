@@ -20,6 +20,20 @@ otro lenguaje.
 1. [Variables](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/03-variables.md#variables)
 1. [Condiciones](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/04-condiciones.md#condiciones)
 1. [Clases y Objetos](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/05-clases.md#clases-y-objetos)
+1. Arreglos y Diccionarios
+1. Ciclos e Iteradores
+1. Métodos
+1. Bloques, Procs y Lambdas
+1. Símbolos
+1. Módulos
+1. Archivos y Entrada/Salida
+1. Serialización
+1. Gemas
+1. Threads
+1. Programación Dinámica
+1. Escribiendo un Domain Specific Language
+1. Desarrollo Web con Sinatra
+
 1. (En construcción)
 
 ## Notas

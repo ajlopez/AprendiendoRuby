@@ -171,5 +171,11 @@ class Joya < Cosa
 end
 ```
 
+(A completar: self, super y los métodos heredados)
+
+(A completar: métodos de clase)
+
+(A completar: atributos)
+
 (A completar: ejecución de comandos en la definición de una clase)
 
