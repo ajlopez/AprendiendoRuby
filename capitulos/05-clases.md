@@ -20,7 +20,20 @@ de esa clase, usando:
 ```ruby
 miobjeto = Object.new
 ```
-Notablemente, el `new` es un método de la clase
+Notablemente, el `new` es un método de la clase. Y como tal, se invoca
+colocándolo luego del nombre de la clase (que es una instancia de la clase `Class`)
+con un punto intermedio.
+
+Si ejecutan esta creación de objeto en el Ruby interactivo, recibirán como
+valor algo como:
+
+```ruby
+#<Object:0x00000002b85e50>
+```
+
+indicando la clase de la cual es instancia ese nuevo objeto, y un número interno
+asignado a esa instancia, exhibido en hexadecimal. Es similar a los `hash code`
+de Java y .NET.
 
 > Nota: De nuevo, se ve acá la influencia de Smalltalk, donde el `new` es
 un método de clase y se puede sobreescribir y hasta recibir parámetros. Lo
@@ -44,3 +57,26 @@ archivo `.rb` o en forma interactiva en `irb`. Segundo, vemos que la definición
 de una clase contiene comandos/expresiones (recuerden que en Ruby todo son
 expresiones, solamente que yo todavía llamo a algunas cosas comandos), y
 termina en un `end`.
+
+Los `def` que pongamos en el cuerpo de la clase definen métodos de las instancias.
+
+Y apareció algo nuevo: el `@nombre` es un nombre de variable de instancia. Como
+pasó con las variables globales, Ruby distingue los distintos alcances por cómo
+comienza el nombre de variable. Esa variable `@nombre` residirá en cada
+instancia de nuestra clase `Perro`, y no se podrá acceder directamente desde
+afuera del objeto.
+
+> Nota: No los quiero confundir ahora, pero hay formas de acceder a esa variable
+de instancia desde fuera del objeto. Lo veremos más adelante, cuando veamos las
+capacidades de reflection de Ruby.
+
+Y ahora, ¿cómo creamos un objeto de la clase `Perro`? Podemos usar
+
+```ruby
+neron = Perro.new
+neron.set_name "Nerón"
+```
+Si estamos en `irb` y evaluamos `neron` el resultado será algo como:
+```ruby
+#<Perro:0x00000002351db0>
+```
