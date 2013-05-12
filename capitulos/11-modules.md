@@ -28,3 +28,12 @@ end
 ```
 
 Como en otras partes de Ruby, un módulo es un bloque de código que termina en `end`.
+
+## Mixins
+
+(A Completar)
+
+## Fuentes Consultadas
+
+- [Ruby Modules and Mixins](http://www.tutorialspoint.com/ruby/ruby_modules.htm)
+
