@@ -27,7 +27,7 @@ con un punto intermedio.
 Si ejecutan esta creación de objeto en el Ruby interactivo, recibirán como
 valor algo como:
 
-```ruby
+```
 #<Object:0x00000002b85e50>
 ```
 
@@ -77,6 +77,34 @@ neron = Perro.new
 neron.set_name "Nerón"
 ```
 Si estamos en `irb` y evaluamos `neron` el resultado será algo como:
-```ruby
+```
 #<Perro:0x00000002351db0>
 ```
+Vemos que no podemos ver el nombre que contiene esta instancia. Aprendamos algo nuevo. Todo objeto
+en Ruby tiene un método `inspect`. Evaluamos
+```ruby
+neron.inspect
+```
+y obtenemos
+```
+#<Perro:0x00000002351db0 @nombre="Nerón">
+```
+Siempre podemos apelar a este método si tenemos alguna duda sobre el estado de un objeto.
+
+Pero quisiéramos ahora un método para obtener el nombre de nuestra mascota. En otros lenguajes, no podríamos
+extender la clase luego de haberla definida. Pero acá aparece una característica destacable de Ruby: las clases
+están abiertas a ser extendidas. ¿Qué significa esto? Veamos de ingresar en cualquier momento de `irb` o en cualquier
+archivo `.rb`:
+
+```ruby
+class Perro
+    def get_nombre
+        return @nombre
+    end
+end
+```
+
+Y luego de esto, todas las instancias de la clase `Perro` tienen un nuevo método `get_nombre`.
+
+(A completar: ejecución de comandos en la definición de una clase)
+
