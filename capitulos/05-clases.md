@@ -115,7 +115,61 @@ neron.get_nombre
 
 ### Inicializando una Instancia
 
+En nuestro ejemplo, creamos nuestra mascota, pero el nombre se lo damos luego de crearla. Quisiéramos ahora
+poder darle nombre ya al crearlo. Aparece el método `initialize`:
 
+```ruby
+class Perro
+    def initialize(nombre)
+        @nombre = nombre
+    end
+end
+```
+
+Ahora podemos repetir la creación de la instancia usando:
+
+```ruby
+fido = Perro.new('Fido')
+```
+
+¿Que pasó? Sucede que el método de clase `new` acepta una cantidad variable de parámetros. Y luego de crear la instancia,
+llama al método de instancia `initialize`, si existe. Le pasa los mismos parámetros que el propio `new` recibió.
+
+(A completar: redifinición de new)
+
+## Herencia
+
+Supongamos que estamos programando un juego, donde el jugador pasea por salas de un laberinto. En cada sala
+puede encontrar cosas, desde joyas hasta armas. Digamos que cada cosa tiene un nombre. Podemos definir la clase:
+
+```ruby
+class Cosa
+    def initialize(nombre)
+        @nombre = nombre
+    end
+    
+    def get_nombre
+        return @nombre
+    end
+    
+    def set_nombre(nombre)
+        @nombre = nombre
+    end
+end
+```
+
+Ahora quisiéramos definir las clases `Arma` y `Joya`, que herede toda la funcionalidad de `Cosa`. La forma de hacerlo
+en Ruby es:
+
+```ruby
+class Arma < Cosa
+    # definiciones
+end
+
+class Joya < Cosa
+    # definiciones
+end
+```
 
 (A completar: ejecución de comandos en la definición de una clase)
 
