@@ -23,4 +23,32 @@ end
 end
 ```
 
+### Múltiples Argumentos
+
+```ruby
+[[1,2,3], [4,5,6], [7,8,9]].each do |a, b, c|
+    puts "#{a} #{b} #{c}"
+end
+```
+
+## Ciclo `while`
+
+```ruby
+k = 1
+while k < 10
+    puts k
+    k = k + 1
+end
+```
+
+### Modificador `while`
+
+```ruby
+k = 1
+begin
+    puts k
+    k = k + 1
+end while k < 10
+```
+
 (A completar)
