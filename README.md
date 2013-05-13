@@ -31,8 +31,8 @@ otro lenguaje.
 1. [Gemas](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/14-gemas.md#gemas)
 1. Threads
 1. [Programación Dinámica](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/16-programaciondinamica.md)
-1. Escribiendo un DSL
-1. Desarrollo Web con Sinatra
+1. [Escribiendo un DSL](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/17-dsl.md#domain-specific-languages-en-ruby)
+1. [Desarrollo Web con Sinatra](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/18-sinatra.md#desarrollo-web-con-sinatra)
 1. (En construcción)
 
 ## Notas
