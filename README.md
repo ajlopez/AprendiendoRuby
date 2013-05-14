@@ -20,7 +20,7 @@ otro lenguaje.
 1. [Variables](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/03-variables.md#variables)
 1. [Condiciones](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/04-condiciones.md#condiciones)
 1. [Clases y Objetos](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/05-clases.md#clases-y-objetos)
-1. Arreglos y Diccionarios
+1. [Arreglos y Diccionarios](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/06-arreglos.md#arreglos-y-diccionarios)
 1. [Ciclos e Iteradores](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/07-ciclos.md#ciclos-e-iteradores)
 1. Métodos
 1. [Bloques, Procs y Lambdas](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/09-blocks.md#bloques-procs-y-lambdas)
