@@ -11,3 +11,8 @@ versión, como `0.5.2`
 - [What is a gem](http://docs.rubygems.org/read/chapter/24)
 - [Ruby for Newbies: Working with Gems](http://net.tutsplus.com/tutorials/ruby/ruby-for-newbies-working-with-gems/)
 - [Developing a RubyGem using Bundler](https://github.com/radar/guides/blob/master/gem-development.md)
+- [Make your own gem](http://guides.rubygems.org/make-your-own-gem/)
+- [Gem Patterns](http://guides.rubygems.org/patterns/)
+- [Gems Specification Reference](http://guides.rubygems.org/specification-reference/)
+- [Gem Activation and You: Part I](http://erik.hollensbe.org/2013/05/11/gem-activation-and-you/)
+
