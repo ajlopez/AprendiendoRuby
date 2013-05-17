@@ -22,7 +22,7 @@ otro lenguaje.
 1. [Clases y Objetos](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/05-clases.md#clases-y-objetos)
 1. [Arreglos y Diccionarios](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/06-arreglos.md#arreglos-y-diccionarios)
 1. [Ciclos e Iteradores](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/07-ciclos.md#ciclos-e-iteradores)
-1. Métodos
+1. [Métodos](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/08-metodos.md#mtodos)
 1. [Bloques, Procs y Lambdas](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/09-blocks.md#bloques-procs-y-lambdas)
 1. Símbolos
 1. [Módulos](https://github.com/ajlopez/AprendiendoRuby/blob/master/capitulos/11-modules.md#mdulos-y-mixins)
