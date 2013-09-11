@@ -62,6 +62,7 @@ Por supuesto, hay mucha información en inglés
 - [Ruby User's Guide](http://www.rubyist.net/~slagell/ruby/)
 - [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 - [Ruby under a microscope](http://patshaughnessy.net/ruby-under-a-microscope)
+- [Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/)
 - (En construcción)
 
 ## Fuentes consultadas
