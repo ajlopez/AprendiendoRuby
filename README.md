@@ -64,6 +64,7 @@ Por supuesto, hay mucha información en inglés
 - [Ruby under a microscope](http://patshaughnessy.net/ruby-under-a-microscope)
 - [Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/)
 - [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/)
+- [Ruby on Rails Tutorial: Learn Web Development with Rails](http://ruby.railstutorial.org/)
 
 ## Fuentes consultadas
 
