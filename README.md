@@ -65,6 +65,9 @@ Por supuesto, hay mucha información en inglés
 - [Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/book/)
 - [Ruby Warrior](https://www.bloc.io/ruby-warrior/#/)
 - [Ruby on Rails Tutorial: Learn Web Development with Rails](http://ruby.railstutorial.org/)
+- [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/)
+- [10 Ways To Have Fun Coding 'Ruby'](http://www.efytimes.com/e1/fullnews.asp?edid=118026)
+- [Ruby Learning](http://www.rubylearning.com/)
 
 ## Fuentes consultadas
 
