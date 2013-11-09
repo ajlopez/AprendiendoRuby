@@ -68,6 +68,7 @@ Por supuesto, hay mucha información en inglés
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/)
 - [10 Ways To Have Fun Coding 'Ruby'](http://www.efytimes.com/e1/fullnews.asp?edid=118026)
 - [Ruby Learning](http://www.rubylearning.com/)
+- [Ruby Tutorial with Code Samples](http://www.fincher.org/tips/Languages/Ruby/)
 
 ## Fuentes consultadas
 
