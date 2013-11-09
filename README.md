@@ -68,6 +68,7 @@ Por supuesto, hay mucha información en inglés
 - [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/)
 - [10 Ways To Have Fun Coding 'Ruby'](http://www.efytimes.com/e1/fullnews.asp?edid=118026)
 - [Ruby Learning](http://www.rubylearning.com/)
+- [Ruby Tutorial with Code Samples](http://www.fincher.org/tips/Languages/Ruby/)
 - [Confessions of an Unlikely Developer: HOW A BLACKSMITH LEARNED TO CODE AND 9 MONTHS LATER GOT HIRED MAKING $70K](http://joshuakemp.blogspot.com.ar/2013/11/how-blacksmith-learned-to-code-and-9.html)
 
 ## Fuentes consultadas
