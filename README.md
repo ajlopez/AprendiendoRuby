@@ -72,6 +72,7 @@ Por supuesto, hay mucha información en inglés
 - [Confessions of an Unlikely Developer: HOW A BLACKSMITH LEARNED TO CODE AND 9 MONTHS LATER GOT HIRED MAKING $70K](http://joshuakemp.blogspot.com.ar/2013/11/how-blacksmith-learned-to-code-and-9.html)
 - [The path of the Padawan Getting started with Ruby/RoR](http://blog.crowdint.com/2013/12/06/the-path-of-the-padawan.html#)
 - [When Code Cries](http://www.slideshare.net/CoryFoy/goto-berlin-when-code-cries)
+- [Hackety Hack!](http://hackety.com/)
 
 ## Fuentes consultadas
 
