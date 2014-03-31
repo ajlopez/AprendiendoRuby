@@ -74,6 +74,10 @@ Por supuesto, hay mucha información en inglés
 - [When Code Cries](http://www.slideshare.net/CoryFoy/goto-berlin-when-code-cries)
 - [Hackety Hack!](http://hackety.com/)
 
+## Temas de Ruby
+
+- [Demystifying the Ruby GC](http://samsaffron.com/archive/2013/11/22/demystifying-the-ruby-gc)
+
 ## Fuentes consultadas
 
 - [The Book of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby), Huw Collingbourne
