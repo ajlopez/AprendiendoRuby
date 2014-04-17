@@ -45,6 +45,7 @@ que no sea el estilo usado en países de habla hispana, pero es lo que se acostum
 Una lista de recursos adicionales a visitar, en español
 
 - [Aprende a Programar](https://github.com/rubyperu/aprende.a.programar/blob/master/README.md#aprende-a-programar)
+- [Aprende a Programar con Ruby](http://rubysur.org/aprende.a.programar/) y [en GitHub](https://github.com/rubysur/aprende.a.programar)
 - [Ruby desde otros lenguajes](http://www.ruby-lang.org/es/documentation/ruby-from-other-languages/) Interesante
 comparación con otros lenguajes
 - [Ruby en 20 minutos](http://www.ruby-lang.org/es/documentation/quickstart/)
