@@ -74,6 +74,7 @@ Por supuesto, hay mucha información en inglés
 - [The path of the Padawan Getting started with Ruby/RoR](http://blog.crowdint.com/2013/12/06/the-path-of-the-padawan.html#)
 - [When Code Cries](http://www.slideshare.net/CoryFoy/goto-berlin-when-code-cries)
 - [Hackety Hack!](http://hackety.com/)
+- [Ruby Tips Part 5](http://globaldev.co.uk/2014/04/ruby-tips-part-5/)
 
 ## Temas de Ruby
 
