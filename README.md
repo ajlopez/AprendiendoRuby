@@ -49,6 +49,7 @@ Una lista de recursos adicionales a visitar, en español
 - [Ruby desde otros lenguajes](http://www.ruby-lang.org/es/documentation/ruby-from-other-languages/) Interesante
 comparación con otros lenguajes
 - [Ruby en 20 minutos](http://www.ruby-lang.org/es/documentation/quickstart/)
+- [RubyLab](http://rubylab.hackcoop.com.ar/)
 
 ## Recursos en Inglés
 
