@@ -76,6 +76,7 @@ Por supuesto, hay mucha información en inglés
 - [When Code Cries](http://www.slideshare.net/CoryFoy/goto-berlin-when-code-cries)
 - [Hackety Hack!](http://hackety.com/)
 - [Ruby Tips Part 5](http://globaldev.co.uk/2014/04/ruby-tips-part-5/)
+- [Ruby Best Practices](http://blog.rubybestpractices.com/posts/gregory/022-rbp-now-open.html)
 
 ## Temas de Ruby
 
